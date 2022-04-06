@@ -2,7 +2,7 @@ Algoritmo "VetorParImpar"
 // Disciplina  :  [Linguagem e L�gica de Programa��o] 
 // Professor   : Antonio Carlos Nicolodi 
 // Descri��o   : Aqui voc� descreve o que o programa faz! (fun��o) 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Nome do(a) aluno(a) “Olá mundo! Vim para ser o melhor programador do mundo!”.
 // Data atual  : 02/06/2021
 Var
    numeros:vetor[0..19] de inteiro
